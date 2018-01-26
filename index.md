@@ -23,3 +23,6 @@ in time and make it easier for the administrators to get information from the at
 ### How it Works
 - The user is prompted to enter their first and last name (Valid characters are a-z and A-Z) <br>
 ![Imgur](https://i.imgur.com/WCiwUhx.png)
+- If the user is new:
+ - They are asked to enter basic information, their major and email
+![Imgur](https://i.imgur.com/4nbad7A.png)
