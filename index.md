@@ -40,7 +40,7 @@ members searching through a list to find their name they can simply type in thei
 - Lastly the user is greeted and their attendance is recorded
 ![Imgur](https://i.imgur.com/2suWvWV.png)
 
-*Note: there are additional error windows for each of the main windows in order to correct user input. The checks include:
+Note: there are additional error windows for each of the main windows in order to correct user input. The checks include:
 - Validating the entered name, major and email
 - If a first time member enters their name and selects returning member they will be brought back to the main window
 - Before a user can sign up with an email the database is searched to make sure that email is not already in use
