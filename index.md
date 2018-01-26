@@ -21,5 +21,5 @@ in time and make it easier for the administrators to get information from the at
 - JavaFX / FXML (GUI)
 
 ### How it Works
-- The user is prompted to enter their first and last name (Valid characters are a-z and A-Z)
-![Image of Welcome Window](https://photos.app.goo.gl/BkCQ7XlLyurNMdOp1)
+- The user is prompted to enter their first and last name (Valid characters are a-z and A-Z) <br>
+![Imgur](https://i.imgur.com/WCiwUhx.png)
