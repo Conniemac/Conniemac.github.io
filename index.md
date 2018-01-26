@@ -23,6 +23,17 @@ in time and make it easier for the administrators to get information from the at
 ### How it Works
 - The user is prompted to enter their first and last name (Valid characters are a-z and A-Z) <br>
 ![Imgur](https://i.imgur.com/WCiwUhx.png)
-- If the user is new:
- - They are asked to enter basic information, their major and email
+
+- The user is new:
+  
+  - They are asked to enter basic information, their major and email
 ![Imgur](https://i.imgur.com/4nbad7A.png)
+  
+  - If their major is vaild (contains only ' ', a-z and A-Z) and the email is also valid (contains only a-z, A-Z, '.' and a single '@') the user is asked to confirm the info they entered 
+![Imgur](https://i.imgur.com/cJ7sbIJ.png)
+
+- The user is returning:
+  - If the user has a name that matches someone else in the database they are asked to enter their email to to uniquely identify them
+![Imgur](https://i.imgur.com/fFSubi9.png)
+
+- Lastly the user is greeted and their attendance is recorded
