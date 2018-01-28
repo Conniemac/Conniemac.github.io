@@ -38,7 +38,7 @@ members searching through a list to find their name they can simply type in thei
 ![Imgur](https://i.imgur.com/fFSubi9.png)
 
 - Lastly the user is greeted and their attendance is recorded
-![Imgur](https://i.imgur.com/2suWvWV.png)
+![Imgur](https://i.imgur.com/PwIFvoS.png)
 
 Note: there are additional error windows for each of the main windows in order to correct user input. The checks include:
 - Validating the entered name, major and email
